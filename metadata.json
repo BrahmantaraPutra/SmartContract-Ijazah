@@ -1,0 +1,15 @@
+{
+  "name": "Sertifikat Pelatihan Blockchain",
+  "description": "Diberikan kepada peserta atas partisipasi dalam pelatihan Blockchain Dasar.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeigeswjo74imgrfctgwtbbkonj2mx24ekad3c7albodjhvouhhrgja",
+  "attributes": [
+    {
+      "trait_type": "Lembaga",
+      "value": "Akademi Web3"
+    },
+    {
+      "trait_type": "Tanggal",
+      "value": "2025-06-01"
+    }
+  ]
+}
